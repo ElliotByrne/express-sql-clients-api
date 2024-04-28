@@ -6,7 +6,7 @@ This project was created as a demonstration of my NodeJS skills for a job opport
 
 First, make sure you've got the SQL database running.
 
-1. `npm install
+1. `npm install`
 2. `npm run start`
 3. You should now see the log `Table created or existing` in your terminal. This means an sqlite database has been created locally.
 4. Your endpoints should now be available at `localhost:3000`
