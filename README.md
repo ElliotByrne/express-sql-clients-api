@@ -1,4 +1,4 @@
-# TurnPoint Client Table project
+# TurnPoint Clients - ExpressJS CRUD API
 
 This project was created as a demonstration of my NodeJS skills for a job opportunity at TurnPoint.
 
